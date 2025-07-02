@@ -11,7 +11,7 @@
 - Experimenting with bots, APIs & automations
 
 ### 🗣️ Find me here:
-Twitter](https://twitter.com/aggel008 • Telegram](https://t.me/aggel008
+Twitter https://twitter.com/aggel008 • Telegram https://t.me/aggel008
 
 ---
 
