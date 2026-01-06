@@ -4,7 +4,7 @@ I farm XP, spin up nodes, break things, fix them, and move to the next chain bef
 
 If it has incentives, I’m already late or way too early
 
-### 🗣️ Find me here:
-Twitter https://twitter.com/aggel008 • Telegram https://t.me/aggel008
+### find me here:
+https://twitter.com/aggel008 • https://t.me/aggel008
 
 
