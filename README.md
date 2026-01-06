@@ -1,18 +1,10 @@
-# Hey, I’m aggel008 👾
+GM, I’m aggel008, a full-time crypto degen running on testnets, drops, and bad decisions
 
-### 💼 I’m into:
-- 🧠 Crypto, airdrops & DeFi farming
-- 🕵️‍♂️ Wallet & node games
-- 💣 Building & testing risky stuff
+I farm XP, spin up nodes, break things, fix them, and move to the next chain before the meta dies
 
-### 🧭 My Web3 life:
-- Always chasing the next meta
-- Active across chains
-- Experimenting with bots, APIs & automations
+If it has incentives, I’m already late or way too early
 
 ### 🗣️ Find me here:
 Twitter https://twitter.com/aggel008 • Telegram https://t.me/aggel008
 
----
 
-**"Don’t just farm drops. Farm experience."**
