@@ -2,9 +2,6 @@
 
 Building AI agents and tools for real life use cases.
 
-**Stack**
-
-OpenClaw · Gemini · Claude · Telegram · VPS · Docker
 
 ---
 
