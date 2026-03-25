@@ -1,4 +1,4 @@
-### GM. I'm @aggel008
+### gm. i'm @aggel008
 
 Building AI agents and tools for real life use cases.
 
